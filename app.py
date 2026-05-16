@@ -157,7 +157,8 @@ with aba_analises:
     st.plotly_chart(fig_tempo, use_container_width=True)
 
 
-st.markdown("-")
+st.markdown("---")
+
 st.caption(
-    "Curso de IA"
+    "Curso de IA aplicado a UniRios com Consumo da API de eventos sísmicos"
 )
